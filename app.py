@@ -117,7 +117,7 @@ class App(ctk.CTk):
 
         
         #comboBox
-        cb_conta = ctk.CTkComboBox(self, width=200,values=["Alguel + Condomínio", "Gás", "Água", "Celular Vô", "Claro", "Água Casa 2", "Luz Casa 2", "IPTU Casa 2"], font=("Calibri bold", 16), fg_color="#fff", text_color="#000")
+        cb_conta = ctk.CTkComboBox(self, width=200,values=["Alguel + Condomínio", "Gás", "Água", "Celular", "Claro", "Água Casa 2", "Luz Casa 2", "IPTU Casa 2"], font=("Calibri bold", 16), fg_color="#fff", text_color="#000")
         cb_conta.set("Selecione...")
 
         #textBox
