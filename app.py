@@ -22,7 +22,7 @@ class App(ctk.CTk):
 
     #configurando o layout
     def layout_config(self):
-        self.title("Contas vovó")
+        self.title("Contas")
         self.geometry("700x500")
 
     #para a mudança de tema do app
